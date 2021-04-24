@@ -1,0 +1,536 @@
+C:\Users\juan5\OneDrive\Escritorio\UNIVERSIDAD\hc_cauchos_II\hc_Cauchos2020_2\Datos\bin\Release\Datos.dll.config
+C:\Users\juan5\OneDrive\Escritorio\UNIVERSIDAD\hc_cauchos_II\hc_Cauchos2020_2\Datos\bin\Release\Datos.dll
+C:\Users\juan5\OneDrive\Escritorio\UNIVERSIDAD\hc_cauchos_II\hc_Cauchos2020_2\Datos\bin\Release\Datos.pdb
+C:\Users\juan5\OneDrive\Escritorio\UNIVERSIDAD\hc_cauchos_II\hc_Cauchos2020_2\Datos\bin\Release\Microsoft.Win32.Primitives.dll
+C:\Users\juan5\OneDrive\Escritorio\UNIVERSIDAD\hc_cauchos_II\hc_Cauchos2020_2\Datos\bin\Release\netstandard.dll
+C:\Users\juan5\OneDrive\Escritorio\UNIVERSIDAD\hc_cauchos_II\hc_Cauchos2020_2\Datos\bin\Release\System.AppContext.dll
+C:\Users\juan5\OneDrive\Escritorio\UNIVERSIDAD\hc_cauchos_II\hc_Cauchos2020_2\Datos\bin\Release\System.Collections.Concurrent.dll
+C:\Users\juan5\OneDrive\Escritorio\UNIVERSIDAD\hc_cauchos_II\hc_Cauchos2020_2\Datos\bin\Release\System.Collections.dll
+C:\Users\juan5\OneDrive\Escritorio\UNIVERSIDAD\hc_cauchos_II\hc_Cauchos2020_2\Datos\bin\Release\System.Collections.NonGeneric.dll
+C:\Users\juan5\OneDrive\Escritorio\UNIVERSIDAD\hc_cauchos_II\hc_Cauchos2020_2\Datos\bin\Release\System.Collections.Specialized.dll
+C:\Users\juan5\OneDrive\Escritorio\UNIVERSIDAD\hc_cauchos_II\hc_Cauchos2020_2\Datos\bin\Release\System.ComponentModel.dll
+C:\Users\juan5\OneDrive\Escritorio\UNIVERSIDAD\hc_cauchos_II\hc_Cauchos2020_2\Datos\bin\Release\System.ComponentModel.EventBasedAsync.dll
+C:\Users\juan5\OneDrive\Escritorio\UNIVERSIDAD\hc_cauchos_II\hc_Cauchos2020_2\Datos\bin\Release\System.ComponentModel.Primitives.dll
+C:\Users\juan5\OneDrive\Escritorio\UNIVERSIDAD\hc_cauchos_II\hc_Cauchos2020_2\Datos\bin\Release\System.ComponentModel.TypeConverter.dll
+C:\Users\juan5\OneDrive\Escritorio\UNIVERSIDAD\hc_cauchos_II\hc_Cauchos2020_2\Datos\bin\Release\System.Console.dll
+C:\Users\juan5\OneDrive\Escritorio\UNIVERSIDAD\hc_cauchos_II\hc_Cauchos2020_2\Datos\bin\Release\System.Data.Common.dll
+C:\Users\juan5\OneDrive\Escritorio\UNIVERSIDAD\hc_cauchos_II\hc_Cauchos2020_2\Datos\bin\Release\System.Diagnostics.Contracts.dll
+C:\Users\juan5\OneDrive\Escritorio\UNIVERSIDAD\hc_cauchos_II\hc_Cauchos2020_2\Datos\bin\Release\System.Diagnostics.Debug.dll
+C:\Users\juan5\OneDrive\Escritorio\UNIVERSIDAD\hc_cauchos_II\hc_Cauchos2020_2\Datos\bin\Release\System.Diagnostics.FileVersionInfo.dll
+C:\Users\juan5\OneDrive\Escritorio\UNIVERSIDAD\hc_cauchos_II\hc_Cauchos2020_2\Datos\bin\Release\System.Diagnostics.Process.dll
+C:\Users\juan5\OneDrive\Escritorio\UNIVERSIDAD\hc_cauchos_II\hc_Cauchos2020_2\Datos\bin\Release\System.Diagnostics.StackTrace.dll
+C:\Users\juan5\OneDrive\Escritorio\UNIVERSIDAD\hc_cauchos_II\hc_Cauchos2020_2\Datos\bin\Release\System.Diagnostics.TextWriterTraceListener.dll
+C:\Users\juan5\OneDrive\Escritorio\UNIVERSIDAD\hc_cauchos_II\hc_Cauchos2020_2\Datos\bin\Release\System.Diagnostics.Tools.dll
+C:\Users\juan5\OneDrive\Escritorio\UNIVERSIDAD\hc_cauchos_II\hc_Cauchos2020_2\Datos\bin\Release\System.Diagnostics.TraceSource.dll
+C:\Users\juan5\OneDrive\Escritorio\UNIVERSIDAD\hc_cauchos_II\hc_Cauchos2020_2\Datos\bin\Release\System.Diagnostics.Tracing.dll
+C:\Users\juan5\OneDrive\Escritorio\UNIVERSIDAD\hc_cauchos_II\hc_Cauchos2020_2\Datos\bin\Release\System.Drawing.Primitives.dll
+C:\Users\juan5\OneDrive\Escritorio\UNIVERSIDAD\hc_cauchos_II\hc_Cauchos2020_2\Datos\bin\Release\System.Dynamic.Runtime.dll
+C:\Users\juan5\OneDrive\Escritorio\UNIVERSIDAD\hc_cauchos_II\hc_Cauchos2020_2\Datos\bin\Release\System.Globalization.Calendars.dll
+C:\Users\juan5\OneDrive\Escritorio\UNIVERSIDAD\hc_cauchos_II\hc_Cauchos2020_2\Datos\bin\Release\System.Globalization.dll
+C:\Users\juan5\OneDrive\Escritorio\UNIVERSIDAD\hc_cauchos_II\hc_Cauchos2020_2\Datos\bin\Release\System.Globalization.Extensions.dll
+C:\Users\juan5\OneDrive\Escritorio\UNIVERSIDAD\hc_cauchos_II\hc_Cauchos2020_2\Datos\bin\Release\System.IO.Compression.dll
+C:\Users\juan5\OneDrive\Escritorio\UNIVERSIDAD\hc_cauchos_II\hc_Cauchos2020_2\Datos\bin\Release\System.IO.Compression.ZipFile.dll
+C:\Users\juan5\OneDrive\Escritorio\UNIVERSIDAD\hc_cauchos_II\hc_Cauchos2020_2\Datos\bin\Release\System.IO.dll
+C:\Users\juan5\OneDrive\Escritorio\UNIVERSIDAD\hc_cauchos_II\hc_Cauchos2020_2\Datos\bin\Release\System.IO.FileSystem.dll
+C:\Users\juan5\OneDrive\Escritorio\UNIVERSIDAD\hc_cauchos_II\hc_Cauchos2020_2\Datos\bin\Release\System.IO.FileSystem.DriveInfo.dll
+C:\Users\juan5\OneDrive\Escritorio\UNIVERSIDAD\hc_cauchos_II\hc_Cauchos2020_2\Datos\bin\Release\System.IO.FileSystem.Primitives.dll
+C:\Users\juan5\OneDrive\Escritorio\UNIVERSIDAD\hc_cauchos_II\hc_Cauchos2020_2\Datos\bin\Release\System.IO.FileSystem.Watcher.dll
+C:\Users\juan5\OneDrive\Escritorio\UNIVERSIDAD\hc_cauchos_II\hc_Cauchos2020_2\Datos\bin\Release\System.IO.IsolatedStorage.dll
+C:\Users\juan5\OneDrive\Escritorio\UNIVERSIDAD\hc_cauchos_II\hc_Cauchos2020_2\Datos\bin\Release\System.IO.MemoryMappedFiles.dll
+C:\Users\juan5\OneDrive\Escritorio\UNIVERSIDAD\hc_cauchos_II\hc_Cauchos2020_2\Datos\bin\Release\System.IO.Pipes.dll
+C:\Users\juan5\OneDrive\Escritorio\UNIVERSIDAD\hc_cauchos_II\hc_Cauchos2020_2\Datos\bin\Release\System.IO.UnmanagedMemoryStream.dll
+C:\Users\juan5\OneDrive\Escritorio\UNIVERSIDAD\hc_cauchos_II\hc_Cauchos2020_2\Datos\bin\Release\System.Linq.dll
+C:\Users\juan5\OneDrive\Escritorio\UNIVERSIDAD\hc_cauchos_II\hc_Cauchos2020_2\Datos\bin\Release\System.Linq.Expressions.dll
+C:\Users\juan5\OneDrive\Escritorio\UNIVERSIDAD\hc_cauchos_II\hc_Cauchos2020_2\Datos\bin\Release\System.Linq.Parallel.dll
+C:\Users\juan5\OneDrive\Escritorio\UNIVERSIDAD\hc_cauchos_II\hc_Cauchos2020_2\Datos\bin\Release\System.Linq.Queryable.dll
+C:\Users\juan5\OneDrive\Escritorio\UNIVERSIDAD\hc_cauchos_II\hc_Cauchos2020_2\Datos\bin\Release\System.Net.Http.dll
+C:\Users\juan5\OneDrive\Escritorio\UNIVERSIDAD\hc_cauchos_II\hc_Cauchos2020_2\Datos\bin\Release\System.Net.NameResolution.dll
+C:\Users\juan5\OneDrive\Escritorio\UNIVERSIDAD\hc_cauchos_II\hc_Cauchos2020_2\Datos\bin\Release\System.Net.NetworkInformation.dll
+C:\Users\juan5\OneDrive\Escritorio\UNIVERSIDAD\hc_cauchos_II\hc_Cauchos2020_2\Datos\bin\Release\System.Net.Ping.dll
+C:\Users\juan5\OneDrive\Escritorio\UNIVERSIDAD\hc_cauchos_II\hc_Cauchos2020_2\Datos\bin\Release\System.Net.Primitives.dll
+C:\Users\juan5\OneDrive\Escritorio\UNIVERSIDAD\hc_cauchos_II\hc_Cauchos2020_2\Datos\bin\Release\System.Net.Requests.dll
+C:\Users\juan5\OneDrive\Escritorio\UNIVERSIDAD\hc_cauchos_II\hc_Cauchos2020_2\Datos\bin\Release\System.Net.Security.dll
+C:\Users\juan5\OneDrive\Escritorio\UNIVERSIDAD\hc_cauchos_II\hc_Cauchos2020_2\Datos\bin\Release\System.Net.Sockets.dll
+C:\Users\juan5\OneDrive\Escritorio\UNIVERSIDAD\hc_cauchos_II\hc_Cauchos2020_2\Datos\bin\Release\System.Net.WebHeaderCollection.dll
+C:\Users\juan5\OneDrive\Escritorio\UNIVERSIDAD\hc_cauchos_II\hc_Cauchos2020_2\Datos\bin\Release\System.Net.WebSockets.Client.dll
+C:\Users\juan5\OneDrive\Escritorio\UNIVERSIDAD\hc_cauchos_II\hc_Cauchos2020_2\Datos\bin\Release\System.Net.WebSockets.dll
+C:\Users\juan5\OneDrive\Escritorio\UNIVERSIDAD\hc_cauchos_II\hc_Cauchos2020_2\Datos\bin\Release\System.ObjectModel.dll
+C:\Users\juan5\OneDrive\Escritorio\UNIVERSIDAD\hc_cauchos_II\hc_Cauchos2020_2\Datos\bin\Release\System.Reflection.dll
+C:\Users\juan5\OneDrive\Escritorio\UNIVERSIDAD\hc_cauchos_II\hc_Cauchos2020_2\Datos\bin\Release\System.Reflection.Extensions.dll
+C:\Users\juan5\OneDrive\Escritorio\UNIVERSIDAD\hc_cauchos_II\hc_Cauchos2020_2\Datos\bin\Release\System.Reflection.Primitives.dll
+C:\Users\juan5\OneDrive\Escritorio\UNIVERSIDAD\hc_cauchos_II\hc_Cauchos2020_2\Datos\bin\Release\System.Resources.Reader.dll
+C:\Users\juan5\OneDrive\Escritorio\UNIVERSIDAD\hc_cauchos_II\hc_Cauchos2020_2\Datos\bin\Release\System.Resources.ResourceManager.dll
+C:\Users\juan5\OneDrive\Escritorio\UNIVERSIDAD\hc_cauchos_II\hc_Cauchos2020_2\Datos\bin\Release\System.Resources.Writer.dll
+C:\Users\juan5\OneDrive\Escritorio\UNIVERSIDAD\hc_cauchos_II\hc_Cauchos2020_2\Datos\bin\Release\System.Runtime.CompilerServices.VisualC.dll
+C:\Users\juan5\OneDrive\Escritorio\UNIVERSIDAD\hc_cauchos_II\hc_Cauchos2020_2\Datos\bin\Release\System.Runtime.dll
+C:\Users\juan5\OneDrive\Escritorio\UNIVERSIDAD\hc_cauchos_II\hc_Cauchos2020_2\Datos\bin\Release\System.Runtime.Extensions.dll
+C:\Users\juan5\OneDrive\Escritorio\UNIVERSIDAD\hc_cauchos_II\hc_Cauchos2020_2\Datos\bin\Release\System.Runtime.Handles.dll
+C:\Users\juan5\OneDrive\Escritorio\UNIVERSIDAD\hc_cauchos_II\hc_Cauchos2020_2\Datos\bin\Release\System.Runtime.InteropServices.dll
+C:\Users\juan5\OneDrive\Escritorio\UNIVERSIDAD\hc_cauchos_II\hc_Cauchos2020_2\Datos\bin\Release\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\juan5\OneDrive\Escritorio\UNIVERSIDAD\hc_cauchos_II\hc_Cauchos2020_2\Datos\bin\Release\System.Runtime.Numerics.dll
+C:\Users\juan5\OneDrive\Escritorio\UNIVERSIDAD\hc_cauchos_II\hc_Cauchos2020_2\Datos\bin\Release\System.Runtime.Serialization.Formatters.dll
+C:\Users\juan5\OneDrive\Escritorio\UNIVERSIDAD\hc_cauchos_II\hc_Cauchos2020_2\Datos\bin\Release\System.Runtime.Serialization.Json.dll
+C:\Users\juan5\OneDrive\Escritorio\UNIVERSIDAD\hc_cauchos_II\hc_Cauchos2020_2\Datos\bin\Release\System.Runtime.Serialization.Primitives.dll
+C:\Users\juan5\OneDrive\Escritorio\UNIVERSIDAD\hc_cauchos_II\hc_Cauchos2020_2\Datos\bin\Release\System.Runtime.Serialization.Xml.dll
+C:\Users\juan5\OneDrive\Escritorio\UNIVERSIDAD\hc_cauchos_II\hc_Cauchos2020_2\Datos\bin\Release\System.Security.Claims.dll
+C:\Users\juan5\OneDrive\Escritorio\UNIVERSIDAD\hc_cauchos_II\hc_Cauchos2020_2\Datos\bin\Release\System.Security.Cryptography.Algorithms.dll
+C:\Users\juan5\OneDrive\Escritorio\UNIVERSIDAD\hc_cauchos_II\hc_Cauchos2020_2\Datos\bin\Release\System.Security.Cryptography.Csp.dll
+C:\Users\juan5\OneDrive\Escritorio\UNIVERSIDAD\hc_cauchos_II\hc_Cauchos2020_2\Datos\bin\Release\System.Security.Cryptography.Encoding.dll
+C:\Users\juan5\OneDrive\Escritorio\UNIVERSIDAD\hc_cauchos_II\hc_Cauchos2020_2\Datos\bin\Release\System.Security.Cryptography.Primitives.dll
+C:\Users\juan5\OneDrive\Escritorio\UNIVERSIDAD\hc_cauchos_II\hc_Cauchos2020_2\Datos\bin\Release\System.Security.Cryptography.X509Certificates.dll
+C:\Users\juan5\OneDrive\Escritorio\UNIVERSIDAD\hc_cauchos_II\hc_Cauchos2020_2\Datos\bin\Release\System.Security.Principal.dll
+C:\Users\juan5\OneDrive\Escritorio\UNIVERSIDAD\hc_cauchos_II\hc_Cauchos2020_2\Datos\bin\Release\System.Security.SecureString.dll
+C:\Users\juan5\OneDrive\Escritorio\UNIVERSIDAD\hc_cauchos_II\hc_Cauchos2020_2\Datos\bin\Release\System.Text.Encoding.dll
+C:\Users\juan5\OneDrive\Escritorio\UNIVERSIDAD\hc_cauchos_II\hc_Cauchos2020_2\Datos\bin\Release\System.Text.Encoding.Extensions.dll
+C:\Users\juan5\OneDrive\Escritorio\UNIVERSIDAD\hc_cauchos_II\hc_Cauchos2020_2\Datos\bin\Release\System.Text.RegularExpressions.dll
+C:\Users\juan5\OneDrive\Escritorio\UNIVERSIDAD\hc_cauchos_II\hc_Cauchos2020_2\Datos\bin\Release\System.Threading.dll
+C:\Users\juan5\OneDrive\Escritorio\UNIVERSIDAD\hc_cauchos_II\hc_Cauchos2020_2\Datos\bin\Release\System.Threading.Overlapped.dll
+C:\Users\juan5\OneDrive\Escritorio\UNIVERSIDAD\hc_cauchos_II\hc_Cauchos2020_2\Datos\bin\Release\System.Threading.Tasks.dll
+C:\Users\juan5\OneDrive\Escritorio\UNIVERSIDAD\hc_cauchos_II\hc_Cauchos2020_2\Datos\bin\Release\System.Threading.Tasks.Parallel.dll
+C:\Users\juan5\OneDrive\Escritorio\UNIVERSIDAD\hc_cauchos_II\hc_Cauchos2020_2\Datos\bin\Release\System.Threading.Thread.dll
+C:\Users\juan5\OneDrive\Escritorio\UNIVERSIDAD\hc_cauchos_II\hc_Cauchos2020_2\Datos\bin\Release\System.Threading.ThreadPool.dll
+C:\Users\juan5\OneDrive\Escritorio\UNIVERSIDAD\hc_cauchos_II\hc_Cauchos2020_2\Datos\bin\Release\System.Threading.Timer.dll
+C:\Users\juan5\OneDrive\Escritorio\UNIVERSIDAD\hc_cauchos_II\hc_Cauchos2020_2\Datos\bin\Release\System.Xml.ReaderWriter.dll
+C:\Users\juan5\OneDrive\Escritorio\UNIVERSIDAD\hc_cauchos_II\hc_Cauchos2020_2\Datos\bin\Release\System.Xml.XDocument.dll
+C:\Users\juan5\OneDrive\Escritorio\UNIVERSIDAD\hc_cauchos_II\hc_Cauchos2020_2\Datos\bin\Release\System.Xml.XmlDocument.dll
+C:\Users\juan5\OneDrive\Escritorio\UNIVERSIDAD\hc_cauchos_II\hc_Cauchos2020_2\Datos\bin\Release\System.Xml.XmlSerializer.dll
+C:\Users\juan5\OneDrive\Escritorio\UNIVERSIDAD\hc_cauchos_II\hc_Cauchos2020_2\Datos\bin\Release\System.Xml.XPath.dll
+C:\Users\juan5\OneDrive\Escritorio\UNIVERSIDAD\hc_cauchos_II\hc_Cauchos2020_2\Datos\bin\Release\System.Xml.XPath.XDocument.dll
+C:\Users\juan5\OneDrive\Escritorio\UNIVERSIDAD\hc_cauchos_II\hc_Cauchos2020_2\Datos\bin\Release\EntityFramework.dll
+C:\Users\juan5\OneDrive\Escritorio\UNIVERSIDAD\hc_cauchos_II\hc_Cauchos2020_2\Datos\bin\Release\EntityFramework.SqlServer.dll
+C:\Users\juan5\OneDrive\Escritorio\UNIVERSIDAD\hc_cauchos_II\hc_Cauchos2020_2\Datos\bin\Release\EntityFramework6.Npgsql.dll
+C:\Users\juan5\OneDrive\Escritorio\UNIVERSIDAD\hc_cauchos_II\hc_Cauchos2020_2\Datos\bin\Release\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\juan5\OneDrive\Escritorio\UNIVERSIDAD\hc_cauchos_II\hc_Cauchos2020_2\Datos\bin\Release\Newtonsoft.Json.dll
+C:\Users\juan5\OneDrive\Escritorio\UNIVERSIDAD\hc_cauchos_II\hc_Cauchos2020_2\Datos\bin\Release\Npgsql.dll
+C:\Users\juan5\OneDrive\Escritorio\UNIVERSIDAD\hc_cauchos_II\hc_Cauchos2020_2\Datos\bin\Release\System.Buffers.dll
+C:\Users\juan5\OneDrive\Escritorio\UNIVERSIDAD\hc_cauchos_II\hc_Cauchos2020_2\Datos\bin\Release\System.Memory.dll
+C:\Users\juan5\OneDrive\Escritorio\UNIVERSIDAD\hc_cauchos_II\hc_Cauchos2020_2\Datos\bin\Release\System.Numerics.Vectors.dll
+C:\Users\juan5\OneDrive\Escritorio\UNIVERSIDAD\hc_cauchos_II\hc_Cauchos2020_2\Datos\bin\Release\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\juan5\OneDrive\Escritorio\UNIVERSIDAD\hc_cauchos_II\hc_Cauchos2020_2\Datos\bin\Release\System.Text.Encodings.Web.dll
+C:\Users\juan5\OneDrive\Escritorio\UNIVERSIDAD\hc_cauchos_II\hc_Cauchos2020_2\Datos\bin\Release\System.Text.Json.dll
+C:\Users\juan5\OneDrive\Escritorio\UNIVERSIDAD\hc_cauchos_II\hc_Cauchos2020_2\Datos\bin\Release\System.Threading.Tasks.Extensions.dll
+C:\Users\juan5\OneDrive\Escritorio\UNIVERSIDAD\hc_cauchos_II\hc_Cauchos2020_2\Datos\bin\Release\System.ValueTuple.dll
+C:\Users\juan5\OneDrive\Escritorio\UNIVERSIDAD\hc_cauchos_II\hc_Cauchos2020_2\Datos\bin\Release\Utilitarios.dll
+C:\Users\juan5\OneDrive\Escritorio\UNIVERSIDAD\hc_cauchos_II\hc_Cauchos2020_2\Datos\bin\Release\Utilitarios.pdb
+C:\Users\juan5\OneDrive\Escritorio\UNIVERSIDAD\hc_cauchos_II\hc_Cauchos2020_2\Datos\bin\Release\EntityFramework.xml
+C:\Users\juan5\OneDrive\Escritorio\UNIVERSIDAD\hc_cauchos_II\hc_Cauchos2020_2\Datos\bin\Release\EntityFramework.SqlServer.xml
+C:\Users\juan5\OneDrive\Escritorio\UNIVERSIDAD\hc_cauchos_II\hc_Cauchos2020_2\Datos\bin\Release\EntityFramework6.Npgsql.xml
+C:\Users\juan5\OneDrive\Escritorio\UNIVERSIDAD\hc_cauchos_II\hc_Cauchos2020_2\Datos\bin\Release\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\juan5\OneDrive\Escritorio\UNIVERSIDAD\hc_cauchos_II\hc_Cauchos2020_2\Datos\bin\Release\Newtonsoft.Json.xml
+C:\Users\juan5\OneDrive\Escritorio\UNIVERSIDAD\hc_cauchos_II\hc_Cauchos2020_2\Datos\bin\Release\Npgsql.pdb
+C:\Users\juan5\OneDrive\Escritorio\UNIVERSIDAD\hc_cauchos_II\hc_Cauchos2020_2\Datos\bin\Release\Npgsql.xml
+C:\Users\juan5\OneDrive\Escritorio\UNIVERSIDAD\hc_cauchos_II\hc_Cauchos2020_2\Datos\bin\Release\System.Buffers.xml
+C:\Users\juan5\OneDrive\Escritorio\UNIVERSIDAD\hc_cauchos_II\hc_Cauchos2020_2\Datos\bin\Release\System.Memory.xml
+C:\Users\juan5\OneDrive\Escritorio\UNIVERSIDAD\hc_cauchos_II\hc_Cauchos2020_2\Datos\bin\Release\System.Numerics.Vectors.xml
+C:\Users\juan5\OneDrive\Escritorio\UNIVERSIDAD\hc_cauchos_II\hc_Cauchos2020_2\Datos\bin\Release\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\juan5\OneDrive\Escritorio\UNIVERSIDAD\hc_cauchos_II\hc_Cauchos2020_2\Datos\bin\Release\System.Text.Encodings.Web.xml
+C:\Users\juan5\OneDrive\Escritorio\UNIVERSIDAD\hc_cauchos_II\hc_Cauchos2020_2\Datos\bin\Release\System.Text.Json.xml
+C:\Users\juan5\OneDrive\Escritorio\UNIVERSIDAD\hc_cauchos_II\hc_Cauchos2020_2\Datos\bin\Release\System.Threading.Tasks.Extensions.xml
+C:\Users\juan5\OneDrive\Escritorio\UNIVERSIDAD\hc_cauchos_II\hc_Cauchos2020_2\Datos\bin\Release\System.ValueTuple.xml
+C:\Users\juan5\OneDrive\Escritorio\UNIVERSIDAD\hc_cauchos_II\hc_Cauchos2020_2\Datos\obj\Release\Datos.csprojAssemblyReference.cache
+C:\Users\juan5\OneDrive\Escritorio\UNIVERSIDAD\hc_cauchos_II\hc_Cauchos2020_2\Datos\obj\Release\Datos.csproj.CoreCompileInputs.cache
+C:\Users\juan5\OneDrive\Escritorio\UNIVERSIDAD\hc_cauchos_II\hc_Cauchos2020_2\Datos\obj\Release\Datos.csproj.CopyComplete
+C:\Users\juan5\OneDrive\Escritorio\UNIVERSIDAD\hc_cauchos_II\hc_Cauchos2020_2\Datos\obj\Release\Datos.dll
+C:\Users\juan5\OneDrive\Escritorio\UNIVERSIDAD\hc_cauchos_II\hc_Cauchos2020_2\Datos\obj\Release\Datos.pdb
+K:\UDEC\OCTAVO\INGENIERIA DE SOFTWARE 2\Hc_cauchos_backup\Hc_cauchos_backup\Datos\bin\Release\Datos.dll.config
+K:\UDEC\OCTAVO\INGENIERIA DE SOFTWARE 2\Hc_cauchos_backup\Hc_cauchos_backup\Datos\bin\Release\Datos.dll
+K:\UDEC\OCTAVO\INGENIERIA DE SOFTWARE 2\Hc_cauchos_backup\Hc_cauchos_backup\Datos\bin\Release\Datos.pdb
+K:\UDEC\OCTAVO\INGENIERIA DE SOFTWARE 2\Hc_cauchos_backup\Hc_cauchos_backup\Datos\bin\Release\Microsoft.Win32.Primitives.dll
+K:\UDEC\OCTAVO\INGENIERIA DE SOFTWARE 2\Hc_cauchos_backup\Hc_cauchos_backup\Datos\bin\Release\netstandard.dll
+K:\UDEC\OCTAVO\INGENIERIA DE SOFTWARE 2\Hc_cauchos_backup\Hc_cauchos_backup\Datos\bin\Release\System.AppContext.dll
+K:\UDEC\OCTAVO\INGENIERIA DE SOFTWARE 2\Hc_cauchos_backup\Hc_cauchos_backup\Datos\bin\Release\System.Collections.Concurrent.dll
+K:\UDEC\OCTAVO\INGENIERIA DE SOFTWARE 2\Hc_cauchos_backup\Hc_cauchos_backup\Datos\bin\Release\System.Collections.dll
+K:\UDEC\OCTAVO\INGENIERIA DE SOFTWARE 2\Hc_cauchos_backup\Hc_cauchos_backup\Datos\bin\Release\System.Collections.NonGeneric.dll
+K:\UDEC\OCTAVO\INGENIERIA DE SOFTWARE 2\Hc_cauchos_backup\Hc_cauchos_backup\Datos\bin\Release\System.Collections.Specialized.dll
+K:\UDEC\OCTAVO\INGENIERIA DE SOFTWARE 2\Hc_cauchos_backup\Hc_cauchos_backup\Datos\bin\Release\System.ComponentModel.dll
+K:\UDEC\OCTAVO\INGENIERIA DE SOFTWARE 2\Hc_cauchos_backup\Hc_cauchos_backup\Datos\bin\Release\System.ComponentModel.EventBasedAsync.dll
+K:\UDEC\OCTAVO\INGENIERIA DE SOFTWARE 2\Hc_cauchos_backup\Hc_cauchos_backup\Datos\bin\Release\System.ComponentModel.Primitives.dll
+K:\UDEC\OCTAVO\INGENIERIA DE SOFTWARE 2\Hc_cauchos_backup\Hc_cauchos_backup\Datos\bin\Release\System.ComponentModel.TypeConverter.dll
+K:\UDEC\OCTAVO\INGENIERIA DE SOFTWARE 2\Hc_cauchos_backup\Hc_cauchos_backup\Datos\bin\Release\System.Console.dll
+K:\UDEC\OCTAVO\INGENIERIA DE SOFTWARE 2\Hc_cauchos_backup\Hc_cauchos_backup\Datos\bin\Release\System.Data.Common.dll
+K:\UDEC\OCTAVO\INGENIERIA DE SOFTWARE 2\Hc_cauchos_backup\Hc_cauchos_backup\Datos\bin\Release\System.Diagnostics.Contracts.dll
+K:\UDEC\OCTAVO\INGENIERIA DE SOFTWARE 2\Hc_cauchos_backup\Hc_cauchos_backup\Datos\bin\Release\System.Diagnostics.Debug.dll
+K:\UDEC\OCTAVO\INGENIERIA DE SOFTWARE 2\Hc_cauchos_backup\Hc_cauchos_backup\Datos\bin\Release\System.Diagnostics.FileVersionInfo.dll
+K:\UDEC\OCTAVO\INGENIERIA DE SOFTWARE 2\Hc_cauchos_backup\Hc_cauchos_backup\Datos\bin\Release\System.Diagnostics.Process.dll
+K:\UDEC\OCTAVO\INGENIERIA DE SOFTWARE 2\Hc_cauchos_backup\Hc_cauchos_backup\Datos\bin\Release\System.Diagnostics.StackTrace.dll
+K:\UDEC\OCTAVO\INGENIERIA DE SOFTWARE 2\Hc_cauchos_backup\Hc_cauchos_backup\Datos\bin\Release\System.Diagnostics.TextWriterTraceListener.dll
+K:\UDEC\OCTAVO\INGENIERIA DE SOFTWARE 2\Hc_cauchos_backup\Hc_cauchos_backup\Datos\bin\Release\System.Diagnostics.Tools.dll
+K:\UDEC\OCTAVO\INGENIERIA DE SOFTWARE 2\Hc_cauchos_backup\Hc_cauchos_backup\Datos\bin\Release\System.Diagnostics.TraceSource.dll
+K:\UDEC\OCTAVO\INGENIERIA DE SOFTWARE 2\Hc_cauchos_backup\Hc_cauchos_backup\Datos\bin\Release\System.Diagnostics.Tracing.dll
+K:\UDEC\OCTAVO\INGENIERIA DE SOFTWARE 2\Hc_cauchos_backup\Hc_cauchos_backup\Datos\bin\Release\System.Drawing.Primitives.dll
+K:\UDEC\OCTAVO\INGENIERIA DE SOFTWARE 2\Hc_cauchos_backup\Hc_cauchos_backup\Datos\bin\Release\System.Dynamic.Runtime.dll
+K:\UDEC\OCTAVO\INGENIERIA DE SOFTWARE 2\Hc_cauchos_backup\Hc_cauchos_backup\Datos\bin\Release\System.Globalization.Calendars.dll
+K:\UDEC\OCTAVO\INGENIERIA DE SOFTWARE 2\Hc_cauchos_backup\Hc_cauchos_backup\Datos\bin\Release\System.Globalization.dll
+K:\UDEC\OCTAVO\INGENIERIA DE SOFTWARE 2\Hc_cauchos_backup\Hc_cauchos_backup\Datos\bin\Release\System.Globalization.Extensions.dll
+K:\UDEC\OCTAVO\INGENIERIA DE SOFTWARE 2\Hc_cauchos_backup\Hc_cauchos_backup\Datos\bin\Release\System.IO.Compression.dll
+K:\UDEC\OCTAVO\INGENIERIA DE SOFTWARE 2\Hc_cauchos_backup\Hc_cauchos_backup\Datos\bin\Release\System.IO.Compression.ZipFile.dll
+K:\UDEC\OCTAVO\INGENIERIA DE SOFTWARE 2\Hc_cauchos_backup\Hc_cauchos_backup\Datos\bin\Release\System.IO.dll
+K:\UDEC\OCTAVO\INGENIERIA DE SOFTWARE 2\Hc_cauchos_backup\Hc_cauchos_backup\Datos\bin\Release\System.IO.FileSystem.dll
+K:\UDEC\OCTAVO\INGENIERIA DE SOFTWARE 2\Hc_cauchos_backup\Hc_cauchos_backup\Datos\bin\Release\System.IO.FileSystem.DriveInfo.dll
+K:\UDEC\OCTAVO\INGENIERIA DE SOFTWARE 2\Hc_cauchos_backup\Hc_cauchos_backup\Datos\bin\Release\System.IO.FileSystem.Primitives.dll
+K:\UDEC\OCTAVO\INGENIERIA DE SOFTWARE 2\Hc_cauchos_backup\Hc_cauchos_backup\Datos\bin\Release\System.IO.FileSystem.Watcher.dll
+K:\UDEC\OCTAVO\INGENIERIA DE SOFTWARE 2\Hc_cauchos_backup\Hc_cauchos_backup\Datos\bin\Release\System.IO.IsolatedStorage.dll
+K:\UDEC\OCTAVO\INGENIERIA DE SOFTWARE 2\Hc_cauchos_backup\Hc_cauchos_backup\Datos\bin\Release\System.IO.MemoryMappedFiles.dll
+K:\UDEC\OCTAVO\INGENIERIA DE SOFTWARE 2\Hc_cauchos_backup\Hc_cauchos_backup\Datos\bin\Release\System.IO.Pipes.dll
+K:\UDEC\OCTAVO\INGENIERIA DE SOFTWARE 2\Hc_cauchos_backup\Hc_cauchos_backup\Datos\bin\Release\System.IO.UnmanagedMemoryStream.dll
+K:\UDEC\OCTAVO\INGENIERIA DE SOFTWARE 2\Hc_cauchos_backup\Hc_cauchos_backup\Datos\bin\Release\System.Linq.dll
+K:\UDEC\OCTAVO\INGENIERIA DE SOFTWARE 2\Hc_cauchos_backup\Hc_cauchos_backup\Datos\bin\Release\System.Linq.Expressions.dll
+K:\UDEC\OCTAVO\INGENIERIA DE SOFTWARE 2\Hc_cauchos_backup\Hc_cauchos_backup\Datos\bin\Release\System.Linq.Parallel.dll
+K:\UDEC\OCTAVO\INGENIERIA DE SOFTWARE 2\Hc_cauchos_backup\Hc_cauchos_backup\Datos\bin\Release\System.Linq.Queryable.dll
+K:\UDEC\OCTAVO\INGENIERIA DE SOFTWARE 2\Hc_cauchos_backup\Hc_cauchos_backup\Datos\bin\Release\System.Net.Http.dll
+K:\UDEC\OCTAVO\INGENIERIA DE SOFTWARE 2\Hc_cauchos_backup\Hc_cauchos_backup\Datos\bin\Release\System.Net.NameResolution.dll
+K:\UDEC\OCTAVO\INGENIERIA DE SOFTWARE 2\Hc_cauchos_backup\Hc_cauchos_backup\Datos\bin\Release\System.Net.NetworkInformation.dll
+K:\UDEC\OCTAVO\INGENIERIA DE SOFTWARE 2\Hc_cauchos_backup\Hc_cauchos_backup\Datos\bin\Release\System.Net.Ping.dll
+K:\UDEC\OCTAVO\INGENIERIA DE SOFTWARE 2\Hc_cauchos_backup\Hc_cauchos_backup\Datos\bin\Release\System.Net.Primitives.dll
+K:\UDEC\OCTAVO\INGENIERIA DE SOFTWARE 2\Hc_cauchos_backup\Hc_cauchos_backup\Datos\bin\Release\System.Net.Requests.dll
+K:\UDEC\OCTAVO\INGENIERIA DE SOFTWARE 2\Hc_cauchos_backup\Hc_cauchos_backup\Datos\bin\Release\System.Net.Security.dll
+K:\UDEC\OCTAVO\INGENIERIA DE SOFTWARE 2\Hc_cauchos_backup\Hc_cauchos_backup\Datos\bin\Release\System.Net.Sockets.dll
+K:\UDEC\OCTAVO\INGENIERIA DE SOFTWARE 2\Hc_cauchos_backup\Hc_cauchos_backup\Datos\bin\Release\System.Net.WebHeaderCollection.dll
+K:\UDEC\OCTAVO\INGENIERIA DE SOFTWARE 2\Hc_cauchos_backup\Hc_cauchos_backup\Datos\bin\Release\System.Net.WebSockets.Client.dll
+K:\UDEC\OCTAVO\INGENIERIA DE SOFTWARE 2\Hc_cauchos_backup\Hc_cauchos_backup\Datos\bin\Release\System.Net.WebSockets.dll
+K:\UDEC\OCTAVO\INGENIERIA DE SOFTWARE 2\Hc_cauchos_backup\Hc_cauchos_backup\Datos\bin\Release\System.ObjectModel.dll
+K:\UDEC\OCTAVO\INGENIERIA DE SOFTWARE 2\Hc_cauchos_backup\Hc_cauchos_backup\Datos\bin\Release\System.Reflection.dll
+K:\UDEC\OCTAVO\INGENIERIA DE SOFTWARE 2\Hc_cauchos_backup\Hc_cauchos_backup\Datos\bin\Release\System.Reflection.Extensions.dll
+K:\UDEC\OCTAVO\INGENIERIA DE SOFTWARE 2\Hc_cauchos_backup\Hc_cauchos_backup\Datos\bin\Release\System.Reflection.Primitives.dll
+K:\UDEC\OCTAVO\INGENIERIA DE SOFTWARE 2\Hc_cauchos_backup\Hc_cauchos_backup\Datos\bin\Release\System.Resources.Reader.dll
+K:\UDEC\OCTAVO\INGENIERIA DE SOFTWARE 2\Hc_cauchos_backup\Hc_cauchos_backup\Datos\bin\Release\System.Resources.ResourceManager.dll
+K:\UDEC\OCTAVO\INGENIERIA DE SOFTWARE 2\Hc_cauchos_backup\Hc_cauchos_backup\Datos\bin\Release\System.Resources.Writer.dll
+K:\UDEC\OCTAVO\INGENIERIA DE SOFTWARE 2\Hc_cauchos_backup\Hc_cauchos_backup\Datos\bin\Release\System.Runtime.CompilerServices.VisualC.dll
+K:\UDEC\OCTAVO\INGENIERIA DE SOFTWARE 2\Hc_cauchos_backup\Hc_cauchos_backup\Datos\bin\Release\System.Runtime.dll
+K:\UDEC\OCTAVO\INGENIERIA DE SOFTWARE 2\Hc_cauchos_backup\Hc_cauchos_backup\Datos\bin\Release\System.Runtime.Extensions.dll
+K:\UDEC\OCTAVO\INGENIERIA DE SOFTWARE 2\Hc_cauchos_backup\Hc_cauchos_backup\Datos\bin\Release\System.Runtime.Handles.dll
+K:\UDEC\OCTAVO\INGENIERIA DE SOFTWARE 2\Hc_cauchos_backup\Hc_cauchos_backup\Datos\bin\Release\System.Runtime.InteropServices.dll
+K:\UDEC\OCTAVO\INGENIERIA DE SOFTWARE 2\Hc_cauchos_backup\Hc_cauchos_backup\Datos\bin\Release\System.Runtime.InteropServices.RuntimeInformation.dll
+K:\UDEC\OCTAVO\INGENIERIA DE SOFTWARE 2\Hc_cauchos_backup\Hc_cauchos_backup\Datos\bin\Release\System.Runtime.Numerics.dll
+K:\UDEC\OCTAVO\INGENIERIA DE SOFTWARE 2\Hc_cauchos_backup\Hc_cauchos_backup\Datos\bin\Release\System.Runtime.Serialization.Formatters.dll
+K:\UDEC\OCTAVO\INGENIERIA DE SOFTWARE 2\Hc_cauchos_backup\Hc_cauchos_backup\Datos\bin\Release\System.Runtime.Serialization.Json.dll
+K:\UDEC\OCTAVO\INGENIERIA DE SOFTWARE 2\Hc_cauchos_backup\Hc_cauchos_backup\Datos\bin\Release\System.Runtime.Serialization.Primitives.dll
+K:\UDEC\OCTAVO\INGENIERIA DE SOFTWARE 2\Hc_cauchos_backup\Hc_cauchos_backup\Datos\bin\Release\System.Runtime.Serialization.Xml.dll
+K:\UDEC\OCTAVO\INGENIERIA DE SOFTWARE 2\Hc_cauchos_backup\Hc_cauchos_backup\Datos\bin\Release\System.Security.Claims.dll
+K:\UDEC\OCTAVO\INGENIERIA DE SOFTWARE 2\Hc_cauchos_backup\Hc_cauchos_backup\Datos\bin\Release\System.Security.Cryptography.Algorithms.dll
+K:\UDEC\OCTAVO\INGENIERIA DE SOFTWARE 2\Hc_cauchos_backup\Hc_cauchos_backup\Datos\bin\Release\System.Security.Cryptography.Csp.dll
+K:\UDEC\OCTAVO\INGENIERIA DE SOFTWARE 2\Hc_cauchos_backup\Hc_cauchos_backup\Datos\bin\Release\System.Security.Cryptography.Encoding.dll
+K:\UDEC\OCTAVO\INGENIERIA DE SOFTWARE 2\Hc_cauchos_backup\Hc_cauchos_backup\Datos\bin\Release\System.Security.Cryptography.Primitives.dll
+K:\UDEC\OCTAVO\INGENIERIA DE SOFTWARE 2\Hc_cauchos_backup\Hc_cauchos_backup\Datos\bin\Release\System.Security.Cryptography.X509Certificates.dll
+K:\UDEC\OCTAVO\INGENIERIA DE SOFTWARE 2\Hc_cauchos_backup\Hc_cauchos_backup\Datos\bin\Release\System.Security.Principal.dll
+K:\UDEC\OCTAVO\INGENIERIA DE SOFTWARE 2\Hc_cauchos_backup\Hc_cauchos_backup\Datos\bin\Release\System.Security.SecureString.dll
+K:\UDEC\OCTAVO\INGENIERIA DE SOFTWARE 2\Hc_cauchos_backup\Hc_cauchos_backup\Datos\bin\Release\System.Text.Encoding.dll
+K:\UDEC\OCTAVO\INGENIERIA DE SOFTWARE 2\Hc_cauchos_backup\Hc_cauchos_backup\Datos\bin\Release\System.Text.Encoding.Extensions.dll
+K:\UDEC\OCTAVO\INGENIERIA DE SOFTWARE 2\Hc_cauchos_backup\Hc_cauchos_backup\Datos\bin\Release\System.Text.RegularExpressions.dll
+K:\UDEC\OCTAVO\INGENIERIA DE SOFTWARE 2\Hc_cauchos_backup\Hc_cauchos_backup\Datos\bin\Release\System.Threading.dll
+K:\UDEC\OCTAVO\INGENIERIA DE SOFTWARE 2\Hc_cauchos_backup\Hc_cauchos_backup\Datos\bin\Release\System.Threading.Overlapped.dll
+K:\UDEC\OCTAVO\INGENIERIA DE SOFTWARE 2\Hc_cauchos_backup\Hc_cauchos_backup\Datos\bin\Release\System.Threading.Tasks.dll
+K:\UDEC\OCTAVO\INGENIERIA DE SOFTWARE 2\Hc_cauchos_backup\Hc_cauchos_backup\Datos\bin\Release\System.Threading.Tasks.Parallel.dll
+K:\UDEC\OCTAVO\INGENIERIA DE SOFTWARE 2\Hc_cauchos_backup\Hc_cauchos_backup\Datos\bin\Release\System.Threading.Thread.dll
+K:\UDEC\OCTAVO\INGENIERIA DE SOFTWARE 2\Hc_cauchos_backup\Hc_cauchos_backup\Datos\bin\Release\System.Threading.ThreadPool.dll
+K:\UDEC\OCTAVO\INGENIERIA DE SOFTWARE 2\Hc_cauchos_backup\Hc_cauchos_backup\Datos\bin\Release\System.Threading.Timer.dll
+K:\UDEC\OCTAVO\INGENIERIA DE SOFTWARE 2\Hc_cauchos_backup\Hc_cauchos_backup\Datos\bin\Release\System.Xml.ReaderWriter.dll
+K:\UDEC\OCTAVO\INGENIERIA DE SOFTWARE 2\Hc_cauchos_backup\Hc_cauchos_backup\Datos\bin\Release\System.Xml.XDocument.dll
+K:\UDEC\OCTAVO\INGENIERIA DE SOFTWARE 2\Hc_cauchos_backup\Hc_cauchos_backup\Datos\bin\Release\System.Xml.XmlDocument.dll
+K:\UDEC\OCTAVO\INGENIERIA DE SOFTWARE 2\Hc_cauchos_backup\Hc_cauchos_backup\Datos\bin\Release\System.Xml.XmlSerializer.dll
+K:\UDEC\OCTAVO\INGENIERIA DE SOFTWARE 2\Hc_cauchos_backup\Hc_cauchos_backup\Datos\bin\Release\System.Xml.XPath.dll
+K:\UDEC\OCTAVO\INGENIERIA DE SOFTWARE 2\Hc_cauchos_backup\Hc_cauchos_backup\Datos\bin\Release\System.Xml.XPath.XDocument.dll
+K:\UDEC\OCTAVO\INGENIERIA DE SOFTWARE 2\Hc_cauchos_backup\Hc_cauchos_backup\Datos\bin\Release\EntityFramework.dll
+K:\UDEC\OCTAVO\INGENIERIA DE SOFTWARE 2\Hc_cauchos_backup\Hc_cauchos_backup\Datos\bin\Release\EntityFramework.SqlServer.dll
+K:\UDEC\OCTAVO\INGENIERIA DE SOFTWARE 2\Hc_cauchos_backup\Hc_cauchos_backup\Datos\bin\Release\EntityFramework6.Npgsql.dll
+K:\UDEC\OCTAVO\INGENIERIA DE SOFTWARE 2\Hc_cauchos_backup\Hc_cauchos_backup\Datos\bin\Release\Microsoft.Bcl.AsyncInterfaces.dll
+K:\UDEC\OCTAVO\INGENIERIA DE SOFTWARE 2\Hc_cauchos_backup\Hc_cauchos_backup\Datos\bin\Release\Newtonsoft.Json.dll
+K:\UDEC\OCTAVO\INGENIERIA DE SOFTWARE 2\Hc_cauchos_backup\Hc_cauchos_backup\Datos\bin\Release\Npgsql.dll
+K:\UDEC\OCTAVO\INGENIERIA DE SOFTWARE 2\Hc_cauchos_backup\Hc_cauchos_backup\Datos\bin\Release\System.Buffers.dll
+K:\UDEC\OCTAVO\INGENIERIA DE SOFTWARE 2\Hc_cauchos_backup\Hc_cauchos_backup\Datos\bin\Release\System.Memory.dll
+K:\UDEC\OCTAVO\INGENIERIA DE SOFTWARE 2\Hc_cauchos_backup\Hc_cauchos_backup\Datos\bin\Release\System.Numerics.Vectors.dll
+K:\UDEC\OCTAVO\INGENIERIA DE SOFTWARE 2\Hc_cauchos_backup\Hc_cauchos_backup\Datos\bin\Release\System.Runtime.CompilerServices.Unsafe.dll
+K:\UDEC\OCTAVO\INGENIERIA DE SOFTWARE 2\Hc_cauchos_backup\Hc_cauchos_backup\Datos\bin\Release\System.Text.Encodings.Web.dll
+K:\UDEC\OCTAVO\INGENIERIA DE SOFTWARE 2\Hc_cauchos_backup\Hc_cauchos_backup\Datos\bin\Release\System.Text.Json.dll
+K:\UDEC\OCTAVO\INGENIERIA DE SOFTWARE 2\Hc_cauchos_backup\Hc_cauchos_backup\Datos\bin\Release\System.Threading.Tasks.Extensions.dll
+K:\UDEC\OCTAVO\INGENIERIA DE SOFTWARE 2\Hc_cauchos_backup\Hc_cauchos_backup\Datos\bin\Release\System.ValueTuple.dll
+K:\UDEC\OCTAVO\INGENIERIA DE SOFTWARE 2\Hc_cauchos_backup\Hc_cauchos_backup\Datos\bin\Release\Utilitarios.dll
+K:\UDEC\OCTAVO\INGENIERIA DE SOFTWARE 2\Hc_cauchos_backup\Hc_cauchos_backup\Datos\bin\Release\Utilitarios.pdb
+K:\UDEC\OCTAVO\INGENIERIA DE SOFTWARE 2\Hc_cauchos_backup\Hc_cauchos_backup\Datos\bin\Release\EntityFramework.xml
+K:\UDEC\OCTAVO\INGENIERIA DE SOFTWARE 2\Hc_cauchos_backup\Hc_cauchos_backup\Datos\bin\Release\EntityFramework.SqlServer.xml
+K:\UDEC\OCTAVO\INGENIERIA DE SOFTWARE 2\Hc_cauchos_backup\Hc_cauchos_backup\Datos\bin\Release\EntityFramework6.Npgsql.xml
+K:\UDEC\OCTAVO\INGENIERIA DE SOFTWARE 2\Hc_cauchos_backup\Hc_cauchos_backup\Datos\bin\Release\Microsoft.Bcl.AsyncInterfaces.xml
+K:\UDEC\OCTAVO\INGENIERIA DE SOFTWARE 2\Hc_cauchos_backup\Hc_cauchos_backup\Datos\bin\Release\Newtonsoft.Json.xml
+K:\UDEC\OCTAVO\INGENIERIA DE SOFTWARE 2\Hc_cauchos_backup\Hc_cauchos_backup\Datos\bin\Release\Npgsql.pdb
+K:\UDEC\OCTAVO\INGENIERIA DE SOFTWARE 2\Hc_cauchos_backup\Hc_cauchos_backup\Datos\bin\Release\Npgsql.xml
+K:\UDEC\OCTAVO\INGENIERIA DE SOFTWARE 2\Hc_cauchos_backup\Hc_cauchos_backup\Datos\bin\Release\System.Buffers.xml
+K:\UDEC\OCTAVO\INGENIERIA DE SOFTWARE 2\Hc_cauchos_backup\Hc_cauchos_backup\Datos\bin\Release\System.Memory.xml
+K:\UDEC\OCTAVO\INGENIERIA DE SOFTWARE 2\Hc_cauchos_backup\Hc_cauchos_backup\Datos\bin\Release\System.Numerics.Vectors.xml
+K:\UDEC\OCTAVO\INGENIERIA DE SOFTWARE 2\Hc_cauchos_backup\Hc_cauchos_backup\Datos\bin\Release\System.Runtime.CompilerServices.Unsafe.xml
+K:\UDEC\OCTAVO\INGENIERIA DE SOFTWARE 2\Hc_cauchos_backup\Hc_cauchos_backup\Datos\bin\Release\System.Text.Encodings.Web.xml
+K:\UDEC\OCTAVO\INGENIERIA DE SOFTWARE 2\Hc_cauchos_backup\Hc_cauchos_backup\Datos\bin\Release\System.Text.Json.xml
+K:\UDEC\OCTAVO\INGENIERIA DE SOFTWARE 2\Hc_cauchos_backup\Hc_cauchos_backup\Datos\bin\Release\System.Threading.Tasks.Extensions.xml
+K:\UDEC\OCTAVO\INGENIERIA DE SOFTWARE 2\Hc_cauchos_backup\Hc_cauchos_backup\Datos\bin\Release\System.ValueTuple.xml
+K:\UDEC\OCTAVO\INGENIERIA DE SOFTWARE 2\Hc_cauchos_backup\Hc_cauchos_backup\Datos\obj\Release\Datos.csprojAssemblyReference.cache
+K:\UDEC\OCTAVO\INGENIERIA DE SOFTWARE 2\Hc_cauchos_backup\Hc_cauchos_backup\Datos\obj\Release\Datos.csproj.CoreCompileInputs.cache
+K:\UDEC\OCTAVO\INGENIERIA DE SOFTWARE 2\Hc_cauchos_backup\Hc_cauchos_backup\Datos\obj\Release\Datos.csproj.CopyComplete
+K:\UDEC\OCTAVO\INGENIERIA DE SOFTWARE 2\Hc_cauchos_backup\Hc_cauchos_backup\Datos\obj\Release\Datos.dll
+K:\UDEC\OCTAVO\INGENIERIA DE SOFTWARE 2\Hc_cauchos_backup\Hc_cauchos_backup\Datos\obj\Release\Datos.pdb
+F:\7Mo semestre\Software II\j2779\hc-cauchos-2021-software\Datos\bin\Release\Datos.dll.config
+F:\7Mo semestre\Software II\j2779\hc-cauchos-2021-software\Datos\bin\Release\Datos.dll
+F:\7Mo semestre\Software II\j2779\hc-cauchos-2021-software\Datos\bin\Release\Datos.pdb
+F:\7Mo semestre\Software II\j2779\hc-cauchos-2021-software\Datos\bin\Release\Microsoft.Win32.Primitives.dll
+F:\7Mo semestre\Software II\j2779\hc-cauchos-2021-software\Datos\bin\Release\netstandard.dll
+F:\7Mo semestre\Software II\j2779\hc-cauchos-2021-software\Datos\bin\Release\System.AppContext.dll
+F:\7Mo semestre\Software II\j2779\hc-cauchos-2021-software\Datos\bin\Release\System.Collections.Concurrent.dll
+F:\7Mo semestre\Software II\j2779\hc-cauchos-2021-software\Datos\bin\Release\System.Collections.dll
+F:\7Mo semestre\Software II\j2779\hc-cauchos-2021-software\Datos\bin\Release\System.Collections.NonGeneric.dll
+F:\7Mo semestre\Software II\j2779\hc-cauchos-2021-software\Datos\bin\Release\System.Collections.Specialized.dll
+F:\7Mo semestre\Software II\j2779\hc-cauchos-2021-software\Datos\bin\Release\System.ComponentModel.dll
+F:\7Mo semestre\Software II\j2779\hc-cauchos-2021-software\Datos\bin\Release\System.ComponentModel.EventBasedAsync.dll
+F:\7Mo semestre\Software II\j2779\hc-cauchos-2021-software\Datos\bin\Release\System.ComponentModel.Primitives.dll
+F:\7Mo semestre\Software II\j2779\hc-cauchos-2021-software\Datos\bin\Release\System.ComponentModel.TypeConverter.dll
+F:\7Mo semestre\Software II\j2779\hc-cauchos-2021-software\Datos\bin\Release\System.Console.dll
+F:\7Mo semestre\Software II\j2779\hc-cauchos-2021-software\Datos\bin\Release\System.Data.Common.dll
+F:\7Mo semestre\Software II\j2779\hc-cauchos-2021-software\Datos\bin\Release\System.Diagnostics.Contracts.dll
+F:\7Mo semestre\Software II\j2779\hc-cauchos-2021-software\Datos\bin\Release\System.Diagnostics.Debug.dll
+F:\7Mo semestre\Software II\j2779\hc-cauchos-2021-software\Datos\bin\Release\System.Diagnostics.FileVersionInfo.dll
+F:\7Mo semestre\Software II\j2779\hc-cauchos-2021-software\Datos\bin\Release\System.Diagnostics.Process.dll
+F:\7Mo semestre\Software II\j2779\hc-cauchos-2021-software\Datos\bin\Release\System.Diagnostics.StackTrace.dll
+F:\7Mo semestre\Software II\j2779\hc-cauchos-2021-software\Datos\bin\Release\System.Diagnostics.TextWriterTraceListener.dll
+F:\7Mo semestre\Software II\j2779\hc-cauchos-2021-software\Datos\bin\Release\System.Diagnostics.Tools.dll
+F:\7Mo semestre\Software II\j2779\hc-cauchos-2021-software\Datos\bin\Release\System.Diagnostics.TraceSource.dll
+F:\7Mo semestre\Software II\j2779\hc-cauchos-2021-software\Datos\bin\Release\System.Diagnostics.Tracing.dll
+F:\7Mo semestre\Software II\j2779\hc-cauchos-2021-software\Datos\bin\Release\System.Drawing.Primitives.dll
+F:\7Mo semestre\Software II\j2779\hc-cauchos-2021-software\Datos\bin\Release\System.Dynamic.Runtime.dll
+F:\7Mo semestre\Software II\j2779\hc-cauchos-2021-software\Datos\bin\Release\System.Globalization.Calendars.dll
+F:\7Mo semestre\Software II\j2779\hc-cauchos-2021-software\Datos\bin\Release\System.Globalization.dll
+F:\7Mo semestre\Software II\j2779\hc-cauchos-2021-software\Datos\bin\Release\System.Globalization.Extensions.dll
+F:\7Mo semestre\Software II\j2779\hc-cauchos-2021-software\Datos\bin\Release\System.IO.Compression.dll
+F:\7Mo semestre\Software II\j2779\hc-cauchos-2021-software\Datos\bin\Release\System.IO.Compression.ZipFile.dll
+F:\7Mo semestre\Software II\j2779\hc-cauchos-2021-software\Datos\bin\Release\System.IO.dll
+F:\7Mo semestre\Software II\j2779\hc-cauchos-2021-software\Datos\bin\Release\System.IO.FileSystem.dll
+F:\7Mo semestre\Software II\j2779\hc-cauchos-2021-software\Datos\bin\Release\System.IO.FileSystem.DriveInfo.dll
+F:\7Mo semestre\Software II\j2779\hc-cauchos-2021-software\Datos\bin\Release\System.IO.FileSystem.Primitives.dll
+F:\7Mo semestre\Software II\j2779\hc-cauchos-2021-software\Datos\bin\Release\System.IO.FileSystem.Watcher.dll
+F:\7Mo semestre\Software II\j2779\hc-cauchos-2021-software\Datos\bin\Release\System.IO.IsolatedStorage.dll
+F:\7Mo semestre\Software II\j2779\hc-cauchos-2021-software\Datos\bin\Release\System.IO.MemoryMappedFiles.dll
+F:\7Mo semestre\Software II\j2779\hc-cauchos-2021-software\Datos\bin\Release\System.IO.Pipes.dll
+F:\7Mo semestre\Software II\j2779\hc-cauchos-2021-software\Datos\bin\Release\System.IO.UnmanagedMemoryStream.dll
+F:\7Mo semestre\Software II\j2779\hc-cauchos-2021-software\Datos\bin\Release\System.Linq.dll
+F:\7Mo semestre\Software II\j2779\hc-cauchos-2021-software\Datos\bin\Release\System.Linq.Expressions.dll
+F:\7Mo semestre\Software II\j2779\hc-cauchos-2021-software\Datos\bin\Release\System.Linq.Parallel.dll
+F:\7Mo semestre\Software II\j2779\hc-cauchos-2021-software\Datos\bin\Release\System.Linq.Queryable.dll
+F:\7Mo semestre\Software II\j2779\hc-cauchos-2021-software\Datos\bin\Release\System.Net.Http.dll
+F:\7Mo semestre\Software II\j2779\hc-cauchos-2021-software\Datos\bin\Release\System.Net.NameResolution.dll
+F:\7Mo semestre\Software II\j2779\hc-cauchos-2021-software\Datos\bin\Release\System.Net.NetworkInformation.dll
+F:\7Mo semestre\Software II\j2779\hc-cauchos-2021-software\Datos\bin\Release\System.Net.Ping.dll
+F:\7Mo semestre\Software II\j2779\hc-cauchos-2021-software\Datos\bin\Release\System.Net.Primitives.dll
+F:\7Mo semestre\Software II\j2779\hc-cauchos-2021-software\Datos\bin\Release\System.Net.Requests.dll
+F:\7Mo semestre\Software II\j2779\hc-cauchos-2021-software\Datos\bin\Release\System.Net.Security.dll
+F:\7Mo semestre\Software II\j2779\hc-cauchos-2021-software\Datos\bin\Release\System.Net.Sockets.dll
+F:\7Mo semestre\Software II\j2779\hc-cauchos-2021-software\Datos\bin\Release\System.Net.WebHeaderCollection.dll
+F:\7Mo semestre\Software II\j2779\hc-cauchos-2021-software\Datos\bin\Release\System.Net.WebSockets.Client.dll
+F:\7Mo semestre\Software II\j2779\hc-cauchos-2021-software\Datos\bin\Release\System.Net.WebSockets.dll
+F:\7Mo semestre\Software II\j2779\hc-cauchos-2021-software\Datos\bin\Release\System.ObjectModel.dll
+F:\7Mo semestre\Software II\j2779\hc-cauchos-2021-software\Datos\bin\Release\System.Reflection.dll
+F:\7Mo semestre\Software II\j2779\hc-cauchos-2021-software\Datos\bin\Release\System.Reflection.Extensions.dll
+F:\7Mo semestre\Software II\j2779\hc-cauchos-2021-software\Datos\bin\Release\System.Reflection.Primitives.dll
+F:\7Mo semestre\Software II\j2779\hc-cauchos-2021-software\Datos\bin\Release\System.Resources.Reader.dll
+F:\7Mo semestre\Software II\j2779\hc-cauchos-2021-software\Datos\bin\Release\System.Resources.ResourceManager.dll
+F:\7Mo semestre\Software II\j2779\hc-cauchos-2021-software\Datos\bin\Release\System.Resources.Writer.dll
+F:\7Mo semestre\Software II\j2779\hc-cauchos-2021-software\Datos\bin\Release\System.Runtime.CompilerServices.VisualC.dll
+F:\7Mo semestre\Software II\j2779\hc-cauchos-2021-software\Datos\bin\Release\System.Runtime.dll
+F:\7Mo semestre\Software II\j2779\hc-cauchos-2021-software\Datos\bin\Release\System.Runtime.Extensions.dll
+F:\7Mo semestre\Software II\j2779\hc-cauchos-2021-software\Datos\bin\Release\System.Runtime.Handles.dll
+F:\7Mo semestre\Software II\j2779\hc-cauchos-2021-software\Datos\bin\Release\System.Runtime.InteropServices.dll
+F:\7Mo semestre\Software II\j2779\hc-cauchos-2021-software\Datos\bin\Release\System.Runtime.InteropServices.RuntimeInformation.dll
+F:\7Mo semestre\Software II\j2779\hc-cauchos-2021-software\Datos\bin\Release\System.Runtime.Numerics.dll
+F:\7Mo semestre\Software II\j2779\hc-cauchos-2021-software\Datos\bin\Release\System.Runtime.Serialization.Formatters.dll
+F:\7Mo semestre\Software II\j2779\hc-cauchos-2021-software\Datos\bin\Release\System.Runtime.Serialization.Json.dll
+F:\7Mo semestre\Software II\j2779\hc-cauchos-2021-software\Datos\bin\Release\System.Runtime.Serialization.Primitives.dll
+F:\7Mo semestre\Software II\j2779\hc-cauchos-2021-software\Datos\bin\Release\System.Runtime.Serialization.Xml.dll
+F:\7Mo semestre\Software II\j2779\hc-cauchos-2021-software\Datos\bin\Release\System.Security.Claims.dll
+F:\7Mo semestre\Software II\j2779\hc-cauchos-2021-software\Datos\bin\Release\System.Security.Cryptography.Algorithms.dll
+F:\7Mo semestre\Software II\j2779\hc-cauchos-2021-software\Datos\bin\Release\System.Security.Cryptography.Csp.dll
+F:\7Mo semestre\Software II\j2779\hc-cauchos-2021-software\Datos\bin\Release\System.Security.Cryptography.Encoding.dll
+F:\7Mo semestre\Software II\j2779\hc-cauchos-2021-software\Datos\bin\Release\System.Security.Cryptography.Primitives.dll
+F:\7Mo semestre\Software II\j2779\hc-cauchos-2021-software\Datos\bin\Release\System.Security.Cryptography.X509Certificates.dll
+F:\7Mo semestre\Software II\j2779\hc-cauchos-2021-software\Datos\bin\Release\System.Security.Principal.dll
+F:\7Mo semestre\Software II\j2779\hc-cauchos-2021-software\Datos\bin\Release\System.Security.SecureString.dll
+F:\7Mo semestre\Software II\j2779\hc-cauchos-2021-software\Datos\bin\Release\System.Text.Encoding.dll
+F:\7Mo semestre\Software II\j2779\hc-cauchos-2021-software\Datos\bin\Release\System.Text.Encoding.Extensions.dll
+F:\7Mo semestre\Software II\j2779\hc-cauchos-2021-software\Datos\bin\Release\System.Text.RegularExpressions.dll
+F:\7Mo semestre\Software II\j2779\hc-cauchos-2021-software\Datos\bin\Release\System.Threading.dll
+F:\7Mo semestre\Software II\j2779\hc-cauchos-2021-software\Datos\bin\Release\System.Threading.Overlapped.dll
+F:\7Mo semestre\Software II\j2779\hc-cauchos-2021-software\Datos\bin\Release\System.Threading.Tasks.dll
+F:\7Mo semestre\Software II\j2779\hc-cauchos-2021-software\Datos\bin\Release\System.Threading.Tasks.Parallel.dll
+F:\7Mo semestre\Software II\j2779\hc-cauchos-2021-software\Datos\bin\Release\System.Threading.Thread.dll
+F:\7Mo semestre\Software II\j2779\hc-cauchos-2021-software\Datos\bin\Release\System.Threading.ThreadPool.dll
+F:\7Mo semestre\Software II\j2779\hc-cauchos-2021-software\Datos\bin\Release\System.Threading.Timer.dll
+F:\7Mo semestre\Software II\j2779\hc-cauchos-2021-software\Datos\bin\Release\System.Xml.ReaderWriter.dll
+F:\7Mo semestre\Software II\j2779\hc-cauchos-2021-software\Datos\bin\Release\System.Xml.XDocument.dll
+F:\7Mo semestre\Software II\j2779\hc-cauchos-2021-software\Datos\bin\Release\System.Xml.XmlDocument.dll
+F:\7Mo semestre\Software II\j2779\hc-cauchos-2021-software\Datos\bin\Release\System.Xml.XmlSerializer.dll
+F:\7Mo semestre\Software II\j2779\hc-cauchos-2021-software\Datos\bin\Release\System.Xml.XPath.dll
+F:\7Mo semestre\Software II\j2779\hc-cauchos-2021-software\Datos\bin\Release\System.Xml.XPath.XDocument.dll
+F:\7Mo semestre\Software II\j2779\hc-cauchos-2021-software\Datos\bin\Release\EntityFramework.dll
+F:\7Mo semestre\Software II\j2779\hc-cauchos-2021-software\Datos\bin\Release\EntityFramework.SqlServer.dll
+F:\7Mo semestre\Software II\j2779\hc-cauchos-2021-software\Datos\bin\Release\EntityFramework6.Npgsql.dll
+F:\7Mo semestre\Software II\j2779\hc-cauchos-2021-software\Datos\bin\Release\Microsoft.Bcl.AsyncInterfaces.dll
+F:\7Mo semestre\Software II\j2779\hc-cauchos-2021-software\Datos\bin\Release\Newtonsoft.Json.dll
+F:\7Mo semestre\Software II\j2779\hc-cauchos-2021-software\Datos\bin\Release\Npgsql.dll
+F:\7Mo semestre\Software II\j2779\hc-cauchos-2021-software\Datos\bin\Release\System.Buffers.dll
+F:\7Mo semestre\Software II\j2779\hc-cauchos-2021-software\Datos\bin\Release\System.Memory.dll
+F:\7Mo semestre\Software II\j2779\hc-cauchos-2021-software\Datos\bin\Release\System.Numerics.Vectors.dll
+F:\7Mo semestre\Software II\j2779\hc-cauchos-2021-software\Datos\bin\Release\System.Runtime.CompilerServices.Unsafe.dll
+F:\7Mo semestre\Software II\j2779\hc-cauchos-2021-software\Datos\bin\Release\System.Text.Encodings.Web.dll
+F:\7Mo semestre\Software II\j2779\hc-cauchos-2021-software\Datos\bin\Release\System.Text.Json.dll
+F:\7Mo semestre\Software II\j2779\hc-cauchos-2021-software\Datos\bin\Release\System.Threading.Tasks.Extensions.dll
+F:\7Mo semestre\Software II\j2779\hc-cauchos-2021-software\Datos\bin\Release\System.ValueTuple.dll
+F:\7Mo semestre\Software II\j2779\hc-cauchos-2021-software\Datos\bin\Release\Utilitarios.dll
+F:\7Mo semestre\Software II\j2779\hc-cauchos-2021-software\Datos\bin\Release\Utilitarios.pdb
+F:\7Mo semestre\Software II\j2779\hc-cauchos-2021-software\Datos\bin\Release\EntityFramework.xml
+F:\7Mo semestre\Software II\j2779\hc-cauchos-2021-software\Datos\bin\Release\EntityFramework.SqlServer.xml
+F:\7Mo semestre\Software II\j2779\hc-cauchos-2021-software\Datos\bin\Release\EntityFramework6.Npgsql.xml
+F:\7Mo semestre\Software II\j2779\hc-cauchos-2021-software\Datos\bin\Release\Microsoft.Bcl.AsyncInterfaces.xml
+F:\7Mo semestre\Software II\j2779\hc-cauchos-2021-software\Datos\bin\Release\Newtonsoft.Json.xml
+F:\7Mo semestre\Software II\j2779\hc-cauchos-2021-software\Datos\bin\Release\Npgsql.pdb
+F:\7Mo semestre\Software II\j2779\hc-cauchos-2021-software\Datos\bin\Release\Npgsql.xml
+F:\7Mo semestre\Software II\j2779\hc-cauchos-2021-software\Datos\bin\Release\System.Buffers.xml
+F:\7Mo semestre\Software II\j2779\hc-cauchos-2021-software\Datos\bin\Release\System.Memory.xml
+F:\7Mo semestre\Software II\j2779\hc-cauchos-2021-software\Datos\bin\Release\System.Numerics.Vectors.xml
+F:\7Mo semestre\Software II\j2779\hc-cauchos-2021-software\Datos\bin\Release\System.Runtime.CompilerServices.Unsafe.xml
+F:\7Mo semestre\Software II\j2779\hc-cauchos-2021-software\Datos\bin\Release\System.Text.Encodings.Web.xml
+F:\7Mo semestre\Software II\j2779\hc-cauchos-2021-software\Datos\bin\Release\System.Text.Json.xml
+F:\7Mo semestre\Software II\j2779\hc-cauchos-2021-software\Datos\bin\Release\System.Threading.Tasks.Extensions.xml
+F:\7Mo semestre\Software II\j2779\hc-cauchos-2021-software\Datos\bin\Release\System.ValueTuple.xml
+F:\7Mo semestre\Software II\j2779\hc-cauchos-2021-software\Datos\obj\Release\Datos.csprojAssemblyReference.cache
+F:\7Mo semestre\Software II\j2779\hc-cauchos-2021-software\Datos\obj\Release\Datos.csproj.CoreCompileInputs.cache
+F:\7Mo semestre\Software II\j2779\hc-cauchos-2021-software\Datos\obj\Release\Datos.csproj.CopyComplete
+F:\7Mo semestre\Software II\j2779\hc-cauchos-2021-software\Datos\obj\Release\Datos.dll
+F:\7Mo semestre\Software II\j2779\hc-cauchos-2021-software\Datos\obj\Release\Datos.pdb
+C:\Users\juan5\Downloads\HC-Cauchos-Base\hc-cauchos-2021-software\Datos\bin\Release\Datos.dll.config
+C:\Users\juan5\Downloads\HC-Cauchos-Base\hc-cauchos-2021-software\Datos\bin\Release\Datos.dll
+C:\Users\juan5\Downloads\HC-Cauchos-Base\hc-cauchos-2021-software\Datos\bin\Release\Datos.pdb
+C:\Users\juan5\Downloads\HC-Cauchos-Base\hc-cauchos-2021-software\Datos\bin\Release\Microsoft.Win32.Primitives.dll
+C:\Users\juan5\Downloads\HC-Cauchos-Base\hc-cauchos-2021-software\Datos\bin\Release\netstandard.dll
+C:\Users\juan5\Downloads\HC-Cauchos-Base\hc-cauchos-2021-software\Datos\bin\Release\System.AppContext.dll
+C:\Users\juan5\Downloads\HC-Cauchos-Base\hc-cauchos-2021-software\Datos\bin\Release\System.Collections.Concurrent.dll
+C:\Users\juan5\Downloads\HC-Cauchos-Base\hc-cauchos-2021-software\Datos\bin\Release\System.Collections.dll
+C:\Users\juan5\Downloads\HC-Cauchos-Base\hc-cauchos-2021-software\Datos\bin\Release\System.Collections.NonGeneric.dll
+C:\Users\juan5\Downloads\HC-Cauchos-Base\hc-cauchos-2021-software\Datos\bin\Release\System.Collections.Specialized.dll
+C:\Users\juan5\Downloads\HC-Cauchos-Base\hc-cauchos-2021-software\Datos\bin\Release\System.ComponentModel.dll
+C:\Users\juan5\Downloads\HC-Cauchos-Base\hc-cauchos-2021-software\Datos\bin\Release\System.ComponentModel.EventBasedAsync.dll
+C:\Users\juan5\Downloads\HC-Cauchos-Base\hc-cauchos-2021-software\Datos\bin\Release\System.ComponentModel.Primitives.dll
+C:\Users\juan5\Downloads\HC-Cauchos-Base\hc-cauchos-2021-software\Datos\bin\Release\System.ComponentModel.TypeConverter.dll
+C:\Users\juan5\Downloads\HC-Cauchos-Base\hc-cauchos-2021-software\Datos\bin\Release\System.Console.dll
+C:\Users\juan5\Downloads\HC-Cauchos-Base\hc-cauchos-2021-software\Datos\bin\Release\System.Data.Common.dll
+C:\Users\juan5\Downloads\HC-Cauchos-Base\hc-cauchos-2021-software\Datos\bin\Release\System.Diagnostics.Contracts.dll
+C:\Users\juan5\Downloads\HC-Cauchos-Base\hc-cauchos-2021-software\Datos\bin\Release\System.Diagnostics.Debug.dll
+C:\Users\juan5\Downloads\HC-Cauchos-Base\hc-cauchos-2021-software\Datos\bin\Release\System.Diagnostics.FileVersionInfo.dll
+C:\Users\juan5\Downloads\HC-Cauchos-Base\hc-cauchos-2021-software\Datos\bin\Release\System.Diagnostics.Process.dll
+C:\Users\juan5\Downloads\HC-Cauchos-Base\hc-cauchos-2021-software\Datos\bin\Release\System.Diagnostics.StackTrace.dll
+C:\Users\juan5\Downloads\HC-Cauchos-Base\hc-cauchos-2021-software\Datos\bin\Release\System.Diagnostics.TextWriterTraceListener.dll
+C:\Users\juan5\Downloads\HC-Cauchos-Base\hc-cauchos-2021-software\Datos\bin\Release\System.Diagnostics.Tools.dll
+C:\Users\juan5\Downloads\HC-Cauchos-Base\hc-cauchos-2021-software\Datos\bin\Release\System.Diagnostics.TraceSource.dll
+C:\Users\juan5\Downloads\HC-Cauchos-Base\hc-cauchos-2021-software\Datos\bin\Release\System.Diagnostics.Tracing.dll
+C:\Users\juan5\Downloads\HC-Cauchos-Base\hc-cauchos-2021-software\Datos\bin\Release\System.Drawing.Primitives.dll
+C:\Users\juan5\Downloads\HC-Cauchos-Base\hc-cauchos-2021-software\Datos\bin\Release\System.Dynamic.Runtime.dll
+C:\Users\juan5\Downloads\HC-Cauchos-Base\hc-cauchos-2021-software\Datos\bin\Release\System.Globalization.Calendars.dll
+C:\Users\juan5\Downloads\HC-Cauchos-Base\hc-cauchos-2021-software\Datos\bin\Release\System.Globalization.dll
+C:\Users\juan5\Downloads\HC-Cauchos-Base\hc-cauchos-2021-software\Datos\bin\Release\System.Globalization.Extensions.dll
+C:\Users\juan5\Downloads\HC-Cauchos-Base\hc-cauchos-2021-software\Datos\bin\Release\System.IO.Compression.dll
+C:\Users\juan5\Downloads\HC-Cauchos-Base\hc-cauchos-2021-software\Datos\bin\Release\System.IO.Compression.ZipFile.dll
+C:\Users\juan5\Downloads\HC-Cauchos-Base\hc-cauchos-2021-software\Datos\bin\Release\System.IO.dll
+C:\Users\juan5\Downloads\HC-Cauchos-Base\hc-cauchos-2021-software\Datos\bin\Release\System.IO.FileSystem.dll
+C:\Users\juan5\Downloads\HC-Cauchos-Base\hc-cauchos-2021-software\Datos\bin\Release\System.IO.FileSystem.DriveInfo.dll
+C:\Users\juan5\Downloads\HC-Cauchos-Base\hc-cauchos-2021-software\Datos\bin\Release\System.IO.FileSystem.Primitives.dll
+C:\Users\juan5\Downloads\HC-Cauchos-Base\hc-cauchos-2021-software\Datos\bin\Release\System.IO.FileSystem.Watcher.dll
+C:\Users\juan5\Downloads\HC-Cauchos-Base\hc-cauchos-2021-software\Datos\bin\Release\System.IO.IsolatedStorage.dll
+C:\Users\juan5\Downloads\HC-Cauchos-Base\hc-cauchos-2021-software\Datos\bin\Release\System.IO.MemoryMappedFiles.dll
+C:\Users\juan5\Downloads\HC-Cauchos-Base\hc-cauchos-2021-software\Datos\bin\Release\System.IO.Pipes.dll
+C:\Users\juan5\Downloads\HC-Cauchos-Base\hc-cauchos-2021-software\Datos\bin\Release\System.IO.UnmanagedMemoryStream.dll
+C:\Users\juan5\Downloads\HC-Cauchos-Base\hc-cauchos-2021-software\Datos\bin\Release\System.Linq.dll
+C:\Users\juan5\Downloads\HC-Cauchos-Base\hc-cauchos-2021-software\Datos\bin\Release\System.Linq.Expressions.dll
+C:\Users\juan5\Downloads\HC-Cauchos-Base\hc-cauchos-2021-software\Datos\bin\Release\System.Linq.Parallel.dll
+C:\Users\juan5\Downloads\HC-Cauchos-Base\hc-cauchos-2021-software\Datos\bin\Release\System.Linq.Queryable.dll
+C:\Users\juan5\Downloads\HC-Cauchos-Base\hc-cauchos-2021-software\Datos\bin\Release\System.Net.Http.dll
+C:\Users\juan5\Downloads\HC-Cauchos-Base\hc-cauchos-2021-software\Datos\bin\Release\System.Net.NameResolution.dll
+C:\Users\juan5\Downloads\HC-Cauchos-Base\hc-cauchos-2021-software\Datos\bin\Release\System.Net.NetworkInformation.dll
+C:\Users\juan5\Downloads\HC-Cauchos-Base\hc-cauchos-2021-software\Datos\bin\Release\System.Net.Ping.dll
+C:\Users\juan5\Downloads\HC-Cauchos-Base\hc-cauchos-2021-software\Datos\bin\Release\System.Net.Primitives.dll
+C:\Users\juan5\Downloads\HC-Cauchos-Base\hc-cauchos-2021-software\Datos\bin\Release\System.Net.Requests.dll
+C:\Users\juan5\Downloads\HC-Cauchos-Base\hc-cauchos-2021-software\Datos\bin\Release\System.Net.Security.dll
+C:\Users\juan5\Downloads\HC-Cauchos-Base\hc-cauchos-2021-software\Datos\bin\Release\System.Net.Sockets.dll
+C:\Users\juan5\Downloads\HC-Cauchos-Base\hc-cauchos-2021-software\Datos\bin\Release\System.Net.WebHeaderCollection.dll
+C:\Users\juan5\Downloads\HC-Cauchos-Base\hc-cauchos-2021-software\Datos\bin\Release\System.Net.WebSockets.Client.dll
+C:\Users\juan5\Downloads\HC-Cauchos-Base\hc-cauchos-2021-software\Datos\bin\Release\System.Net.WebSockets.dll
+C:\Users\juan5\Downloads\HC-Cauchos-Base\hc-cauchos-2021-software\Datos\bin\Release\System.ObjectModel.dll
+C:\Users\juan5\Downloads\HC-Cauchos-Base\hc-cauchos-2021-software\Datos\bin\Release\System.Reflection.dll
+C:\Users\juan5\Downloads\HC-Cauchos-Base\hc-cauchos-2021-software\Datos\bin\Release\System.Reflection.Extensions.dll
+C:\Users\juan5\Downloads\HC-Cauchos-Base\hc-cauchos-2021-software\Datos\bin\Release\System.Reflection.Primitives.dll
+C:\Users\juan5\Downloads\HC-Cauchos-Base\hc-cauchos-2021-software\Datos\bin\Release\System.Resources.Reader.dll
+C:\Users\juan5\Downloads\HC-Cauchos-Base\hc-cauchos-2021-software\Datos\bin\Release\System.Resources.ResourceManager.dll
+C:\Users\juan5\Downloads\HC-Cauchos-Base\hc-cauchos-2021-software\Datos\bin\Release\System.Resources.Writer.dll
+C:\Users\juan5\Downloads\HC-Cauchos-Base\hc-cauchos-2021-software\Datos\bin\Release\System.Runtime.CompilerServices.VisualC.dll
+C:\Users\juan5\Downloads\HC-Cauchos-Base\hc-cauchos-2021-software\Datos\bin\Release\System.Runtime.dll
+C:\Users\juan5\Downloads\HC-Cauchos-Base\hc-cauchos-2021-software\Datos\bin\Release\System.Runtime.Extensions.dll
+C:\Users\juan5\Downloads\HC-Cauchos-Base\hc-cauchos-2021-software\Datos\bin\Release\System.Runtime.Handles.dll
+C:\Users\juan5\Downloads\HC-Cauchos-Base\hc-cauchos-2021-software\Datos\bin\Release\System.Runtime.InteropServices.dll
+C:\Users\juan5\Downloads\HC-Cauchos-Base\hc-cauchos-2021-software\Datos\bin\Release\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\juan5\Downloads\HC-Cauchos-Base\hc-cauchos-2021-software\Datos\bin\Release\System.Runtime.Numerics.dll
+C:\Users\juan5\Downloads\HC-Cauchos-Base\hc-cauchos-2021-software\Datos\bin\Release\System.Runtime.Serialization.Formatters.dll
+C:\Users\juan5\Downloads\HC-Cauchos-Base\hc-cauchos-2021-software\Datos\bin\Release\System.Runtime.Serialization.Json.dll
+C:\Users\juan5\Downloads\HC-Cauchos-Base\hc-cauchos-2021-software\Datos\bin\Release\System.Runtime.Serialization.Primitives.dll
+C:\Users\juan5\Downloads\HC-Cauchos-Base\hc-cauchos-2021-software\Datos\bin\Release\System.Runtime.Serialization.Xml.dll
+C:\Users\juan5\Downloads\HC-Cauchos-Base\hc-cauchos-2021-software\Datos\bin\Release\System.Security.Claims.dll
+C:\Users\juan5\Downloads\HC-Cauchos-Base\hc-cauchos-2021-software\Datos\bin\Release\System.Security.Cryptography.Algorithms.dll
+C:\Users\juan5\Downloads\HC-Cauchos-Base\hc-cauchos-2021-software\Datos\bin\Release\System.Security.Cryptography.Csp.dll
+C:\Users\juan5\Downloads\HC-Cauchos-Base\hc-cauchos-2021-software\Datos\bin\Release\System.Security.Cryptography.Encoding.dll
+C:\Users\juan5\Downloads\HC-Cauchos-Base\hc-cauchos-2021-software\Datos\bin\Release\System.Security.Cryptography.Primitives.dll
+C:\Users\juan5\Downloads\HC-Cauchos-Base\hc-cauchos-2021-software\Datos\bin\Release\System.Security.Cryptography.X509Certificates.dll
+C:\Users\juan5\Downloads\HC-Cauchos-Base\hc-cauchos-2021-software\Datos\bin\Release\System.Security.Principal.dll
+C:\Users\juan5\Downloads\HC-Cauchos-Base\hc-cauchos-2021-software\Datos\bin\Release\System.Security.SecureString.dll
+C:\Users\juan5\Downloads\HC-Cauchos-Base\hc-cauchos-2021-software\Datos\bin\Release\System.Text.Encoding.dll
+C:\Users\juan5\Downloads\HC-Cauchos-Base\hc-cauchos-2021-software\Datos\bin\Release\System.Text.Encoding.Extensions.dll
+C:\Users\juan5\Downloads\HC-Cauchos-Base\hc-cauchos-2021-software\Datos\bin\Release\System.Text.RegularExpressions.dll
+C:\Users\juan5\Downloads\HC-Cauchos-Base\hc-cauchos-2021-software\Datos\bin\Release\System.Threading.dll
+C:\Users\juan5\Downloads\HC-Cauchos-Base\hc-cauchos-2021-software\Datos\bin\Release\System.Threading.Overlapped.dll
+C:\Users\juan5\Downloads\HC-Cauchos-Base\hc-cauchos-2021-software\Datos\bin\Release\System.Threading.Tasks.dll
+C:\Users\juan5\Downloads\HC-Cauchos-Base\hc-cauchos-2021-software\Datos\bin\Release\System.Threading.Tasks.Parallel.dll
+C:\Users\juan5\Downloads\HC-Cauchos-Base\hc-cauchos-2021-software\Datos\bin\Release\System.Threading.Thread.dll
+C:\Users\juan5\Downloads\HC-Cauchos-Base\hc-cauchos-2021-software\Datos\bin\Release\System.Threading.ThreadPool.dll
+C:\Users\juan5\Downloads\HC-Cauchos-Base\hc-cauchos-2021-software\Datos\bin\Release\System.Threading.Timer.dll
+C:\Users\juan5\Downloads\HC-Cauchos-Base\hc-cauchos-2021-software\Datos\bin\Release\System.Xml.ReaderWriter.dll
+C:\Users\juan5\Downloads\HC-Cauchos-Base\hc-cauchos-2021-software\Datos\bin\Release\System.Xml.XDocument.dll
+C:\Users\juan5\Downloads\HC-Cauchos-Base\hc-cauchos-2021-software\Datos\bin\Release\System.Xml.XmlDocument.dll
+C:\Users\juan5\Downloads\HC-Cauchos-Base\hc-cauchos-2021-software\Datos\bin\Release\System.Xml.XmlSerializer.dll
+C:\Users\juan5\Downloads\HC-Cauchos-Base\hc-cauchos-2021-software\Datos\bin\Release\System.Xml.XPath.dll
+C:\Users\juan5\Downloads\HC-Cauchos-Base\hc-cauchos-2021-software\Datos\bin\Release\System.Xml.XPath.XDocument.dll
+C:\Users\juan5\Downloads\HC-Cauchos-Base\hc-cauchos-2021-software\Datos\bin\Release\EntityFramework.dll
+C:\Users\juan5\Downloads\HC-Cauchos-Base\hc-cauchos-2021-software\Datos\bin\Release\EntityFramework.SqlServer.dll
+C:\Users\juan5\Downloads\HC-Cauchos-Base\hc-cauchos-2021-software\Datos\bin\Release\EntityFramework6.Npgsql.dll
+C:\Users\juan5\Downloads\HC-Cauchos-Base\hc-cauchos-2021-software\Datos\bin\Release\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\juan5\Downloads\HC-Cauchos-Base\hc-cauchos-2021-software\Datos\bin\Release\Newtonsoft.Json.dll
+C:\Users\juan5\Downloads\HC-Cauchos-Base\hc-cauchos-2021-software\Datos\bin\Release\Npgsql.dll
+C:\Users\juan5\Downloads\HC-Cauchos-Base\hc-cauchos-2021-software\Datos\bin\Release\System.Buffers.dll
+C:\Users\juan5\Downloads\HC-Cauchos-Base\hc-cauchos-2021-software\Datos\bin\Release\System.Memory.dll
+C:\Users\juan5\Downloads\HC-Cauchos-Base\hc-cauchos-2021-software\Datos\bin\Release\System.Numerics.Vectors.dll
+C:\Users\juan5\Downloads\HC-Cauchos-Base\hc-cauchos-2021-software\Datos\bin\Release\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\juan5\Downloads\HC-Cauchos-Base\hc-cauchos-2021-software\Datos\bin\Release\System.Text.Encodings.Web.dll
+C:\Users\juan5\Downloads\HC-Cauchos-Base\hc-cauchos-2021-software\Datos\bin\Release\System.Text.Json.dll
+C:\Users\juan5\Downloads\HC-Cauchos-Base\hc-cauchos-2021-software\Datos\bin\Release\System.Threading.Tasks.Extensions.dll
+C:\Users\juan5\Downloads\HC-Cauchos-Base\hc-cauchos-2021-software\Datos\bin\Release\System.ValueTuple.dll
+C:\Users\juan5\Downloads\HC-Cauchos-Base\hc-cauchos-2021-software\Datos\bin\Release\Utilitarios.dll
+C:\Users\juan5\Downloads\HC-Cauchos-Base\hc-cauchos-2021-software\Datos\bin\Release\Utilitarios.pdb
+C:\Users\juan5\Downloads\HC-Cauchos-Base\hc-cauchos-2021-software\Datos\bin\Release\EntityFramework.xml
+C:\Users\juan5\Downloads\HC-Cauchos-Base\hc-cauchos-2021-software\Datos\bin\Release\EntityFramework.SqlServer.xml
+C:\Users\juan5\Downloads\HC-Cauchos-Base\hc-cauchos-2021-software\Datos\bin\Release\EntityFramework6.Npgsql.xml
+C:\Users\juan5\Downloads\HC-Cauchos-Base\hc-cauchos-2021-software\Datos\bin\Release\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\juan5\Downloads\HC-Cauchos-Base\hc-cauchos-2021-software\Datos\bin\Release\Newtonsoft.Json.xml
+C:\Users\juan5\Downloads\HC-Cauchos-Base\hc-cauchos-2021-software\Datos\bin\Release\Npgsql.pdb
+C:\Users\juan5\Downloads\HC-Cauchos-Base\hc-cauchos-2021-software\Datos\bin\Release\Npgsql.xml
+C:\Users\juan5\Downloads\HC-Cauchos-Base\hc-cauchos-2021-software\Datos\bin\Release\System.Buffers.xml
+C:\Users\juan5\Downloads\HC-Cauchos-Base\hc-cauchos-2021-software\Datos\bin\Release\System.Memory.xml
+C:\Users\juan5\Downloads\HC-Cauchos-Base\hc-cauchos-2021-software\Datos\bin\Release\System.Numerics.Vectors.xml
+C:\Users\juan5\Downloads\HC-Cauchos-Base\hc-cauchos-2021-software\Datos\bin\Release\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\juan5\Downloads\HC-Cauchos-Base\hc-cauchos-2021-software\Datos\bin\Release\System.Text.Encodings.Web.xml
+C:\Users\juan5\Downloads\HC-Cauchos-Base\hc-cauchos-2021-software\Datos\bin\Release\System.Text.Json.xml
+C:\Users\juan5\Downloads\HC-Cauchos-Base\hc-cauchos-2021-software\Datos\bin\Release\System.Threading.Tasks.Extensions.xml
+C:\Users\juan5\Downloads\HC-Cauchos-Base\hc-cauchos-2021-software\Datos\bin\Release\System.ValueTuple.xml
+C:\Users\juan5\Downloads\HC-Cauchos-Base\hc-cauchos-2021-software\Datos\obj\Release\Datos.csprojAssemblyReference.cache
+C:\Users\juan5\Downloads\HC-Cauchos-Base\hc-cauchos-2021-software\Datos\obj\Release\Datos.csproj.CoreCompileInputs.cache
+C:\Users\juan5\Downloads\HC-Cauchos-Base\hc-cauchos-2021-software\Datos\obj\Release\Datos.csproj.CopyComplete
+C:\Users\juan5\Downloads\HC-Cauchos-Base\hc-cauchos-2021-software\Datos\obj\Release\Datos.dll
+C:\Users\juan5\Downloads\HC-Cauchos-Base\hc-cauchos-2021-software\Datos\obj\Release\Datos.pdb

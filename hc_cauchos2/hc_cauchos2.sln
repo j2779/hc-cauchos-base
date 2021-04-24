@@ -1,0 +1,68 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.1231
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Datos", "..\Datos\Datos.csproj", "{394F7A48-784A-468B-A5A9-B3CA92A30D86}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Utilitarios", "..\Utilitarios\Utilitarios.csproj", "{4E239B1C-926B-4B90-9F9D-75FCA3824141}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LogicaNegocio", "..\LogicaNegocio\LogicaNegocio.csproj", "{F357195B-934F-4A50-9644-5F8173B1E45D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "hccauchosAPI", "hccauchosAPI\hccauchosAPI.csproj", "{51949C59-8D0C-4F7F-9DD5-6BD73611AA78}"
+EndProject
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "hc_cauchos2(1)", "hc_cauchos2\", "{13E5C190-850C-48B3-A999-F8FFB00A33B1}"
+	ProjectSection(WebsiteProperties) = preProject
+		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.6.1"
+		Debug.AspNetCompiler.VirtualPath = "/localhost_60961"
+		Debug.AspNetCompiler.PhysicalPath = "hc_cauchos2\"
+		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_60961\"
+		Debug.AspNetCompiler.Updateable = "true"
+		Debug.AspNetCompiler.ForceOverwrite = "true"
+		Debug.AspNetCompiler.FixedNames = "false"
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.VirtualPath = "/localhost_60961"
+		Release.AspNetCompiler.PhysicalPath = "hc_cauchos2\"
+		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_60961\"
+		Release.AspNetCompiler.Updateable = "true"
+		Release.AspNetCompiler.ForceOverwrite = "true"
+		Release.AspNetCompiler.FixedNames = "false"
+		Release.AspNetCompiler.Debug = "False"
+		VWDPort = "60961"
+		SlnRelativePath = "hc_cauchos2\"
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{394F7A48-784A-468B-A5A9-B3CA92A30D86}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{394F7A48-784A-468B-A5A9-B3CA92A30D86}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{394F7A48-784A-468B-A5A9-B3CA92A30D86}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{394F7A48-784A-468B-A5A9-B3CA92A30D86}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4E239B1C-926B-4B90-9F9D-75FCA3824141}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4E239B1C-926B-4B90-9F9D-75FCA3824141}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4E239B1C-926B-4B90-9F9D-75FCA3824141}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4E239B1C-926B-4B90-9F9D-75FCA3824141}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F357195B-934F-4A50-9644-5F8173B1E45D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F357195B-934F-4A50-9644-5F8173B1E45D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F357195B-934F-4A50-9644-5F8173B1E45D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F357195B-934F-4A50-9644-5F8173B1E45D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{51949C59-8D0C-4F7F-9DD5-6BD73611AA78}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{51949C59-8D0C-4F7F-9DD5-6BD73611AA78}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{51949C59-8D0C-4F7F-9DD5-6BD73611AA78}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{51949C59-8D0C-4F7F-9DD5-6BD73611AA78}.Release|Any CPU.Build.0 = Release|Any CPU
+		{13E5C190-850C-48B3-A999-F8FFB00A33B1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{13E5C190-850C-48B3-A999-F8FFB00A33B1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{13E5C190-850C-48B3-A999-F8FFB00A33B1}.Release|Any CPU.ActiveCfg = Debug|Any CPU
+		{13E5C190-850C-48B3-A999-F8FFB00A33B1}.Release|Any CPU.Build.0 = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6F30BA27-AB53-42C7-9117-4D319AEFEE4C}
+	EndGlobalSection
+EndGlobal

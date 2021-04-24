@@ -1,0 +1,117 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeFile="~/Controller/Principal.master.cs" Inherits="View_Principal" %>
+
+<!DOCTYPE html>
+
+<html>
+<head runat="server">
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no"/>
+<meta name="description" content=""/>
+<meta name="author" content=""/>
+<link rel="shortcut icon" href="../ima/cauchosicono.png" />
+
+    <title>HC-cauchos</title>
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css" integrity="sha384-Vkoo8x4CGsO3+Hhxv8T/Q5PaXtkKtu6ug5TOeNV6gBiFeWPGFN9MuhOf23Q9Ifjh" crossorigin="anonymous">
+    <!-- Bootstrap core CSS -->
+    <link href="../archivos_index/vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet"/>
+    <link href="../bootstrap/css/sweetalert.css" rel="stylesheet" />
+    <script src="../bootstrap/js/sweetalert.min.js" type="text/javascript"></script>
+
+    <!-- Custom styles for this template -->
+    <link href="../archivos_index/css/modern-business.css" rel="stylesheet"/>
+
+    <asp:ContentPlaceHolder id="head" runat="server">
+        <style type="text/css">
+           #titulo{
+               box-shadow: 2px 2px 20px #ff0000;
+               color:#ff0000;
+           }
+       </style>
+    </asp:ContentPlaceHolder>
+</head>
+<body>
+    <form id="form1" runat="server">
+    <!------------------------------------------------------------------------------------------------------------------->    
+        <!-- NavigationADASD-->
+          <nav class="navbar fixed-top navbar-expand-lg navbar-dark bg-dark fixed-top">
+            <div class="container">
+              <h2 id="titulo" class="navbar-header text-white" href="home.aspx">
+                  <img src="../ima/cauchosicono.png" alt="Alternate Text" width="8%" height="6%" /> HC CAUCHOS</h2>    
+              <button class="navbar-toggler navbar-toggler-right" type="button" data-toggle="collapse" data-target="#navbarResponsive" aria-controls="navbarResponsive" aria-expanded="false" aria-label="Toggle navigation">
+                <span class="navbar-toggler-icon"></span>
+              </button>
+              <div class="collapse navbar-collapse" id="navbarResponsive">
+                <ul class="navbar-nav ml-auto">
+                  <li class="nav-item">
+                    <a class="nav-link" href="home.aspx">Home</a>
+                  </li>
+                  <li class="nav-item">
+                    <a class="nav-link" href="">Catalogo</a>
+                  </li>
+                  <li class="nav-item">
+                    <a class="nav-link" href="contacto.aspx">Contacto</a>
+                  </li>
+                    <li class="nav-item">
+                    <a class="nav-link" href="login.aspx">Ingresar</a>
+                  </li>
+                     <li class="nav-item">
+                    <a class="nav-link" href="Registro.aspx">Registrate</a>
+                  </li>         
+                </ul>
+              </div>
+            </div>
+          </nav>
+<!------------------------------------------------------------------------------------------------------------------->
+    <div>
+        <asp:ContentPlaceHolder id="ContentPlaceHolder1" runat="server">
+        
+        </asp:ContentPlaceHolder>
+    </div>
+    </form>
+
+     <!------------------------------------------------------------------------------------------------------------------->   
+    <!-- Footer -->
+      <footer class="py-5 bg-dark">
+        <div class="container">
+
+        <!-- Social buttons -->
+        <ul class="list-unstyled list-inline text-center">
+          <li class="list-inline-item bg-primary">
+            <a class="btn-floating btn-fb mx-1">
+              <i class="fab fa-facebook-f"> </i>
+            </a>
+          </li>
+          <li class="list-inline-item bg-light">
+            <a class="btn-floating btn-tw mx-1">
+              <i class="fab fa-twitter"> </i>
+            </a>
+          </li>
+          <li class="list-inline-item bg-danger">
+            <a class="btn-floating btn-gplus mx-1">
+              <i class="fab fa-google-plus-g"> </i>
+            </a>
+          </li>
+          <li class="list-inline-item bg-success">
+            <a class="btn-floating btn-li mx-1">
+              <i class="fab fa-linkedin-in"> </i>
+            </a>
+          </li>
+          <li class="list-inline-item bg-warning">
+            <a class="btn-floating btn-dribbble mx-1">
+              <i class="fab fa-dribbble"> </i>
+            </a>
+          </li>
+        </ul>
+        <!-- Social buttons -->
+
+      </div>
+      <!-- Footer Elements -->
+          <p class="m-0 text-center text-white">Copyright &copy; HC Cauchos 2020</p>
+        <!-- /.container -->
+      </footer>
+    <!-------------------------------------------------------------------------------------------------------------------> 
+      <!-- Bootstrap core JavaScript -->
+      <script src="../archivos_index/vendor/jquery/jquery.min.js"></script>
+      <script src="../archivos_index/vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
+</body>
+</html>
